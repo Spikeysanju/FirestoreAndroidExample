@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firestore Example</string>
+    <string name="task_name">Task Name</string>
+    <string name="add_button">Add</string>
+</resources>

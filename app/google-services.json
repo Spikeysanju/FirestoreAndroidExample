@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "754026973174",
+    "firebase_url": "https://explorecity-ac31b.firebaseio.com",
+    "project_id": "explorecity-ac31b",
+    "storage_bucket": "explorecity-ac31b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754026973174:android:6dc82a3d4020399f0129d7",
+        "android_client_info": {
+          "package_name": "in.mosmu.firestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754026973174-n2lid9foh99prt3ca2ilriltnmk6as75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQ0DlUOqbXuLzRQTRi0Scc-84fZJvBHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754026973174-rkissnb8l25iivvqfbuke45vj5j9csgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754026973174:android:bdf283525cd4773e0129d7",
+        "android_client_info": {
+          "package_name": "lav.cloudfirestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754026973174-n2lid9foh99prt3ca2ilriltnmk6as75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQ0DlUOqbXuLzRQTRi0Scc-84fZJvBHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754026973174-rkissnb8l25iivvqfbuke45vj5j9csgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
